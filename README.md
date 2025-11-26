@@ -1,17 +1,21 @@
-# 👋 Hi there, I'm @ItIsNoTToi!
+# 👋 Hi, I'm Giang ( @ItIsNoTToi )
 
-## About Me
+## 🚀 About Me
+- 😅 Sometimes lazy, but always deliver when it matters.
+- 💻 I build **web** and **mobile applications**.
+- 🧠 Tech stack:
+  - **Node.js**, **.NET**, **React**
+  - **Svelte**, **Vue.js**
+  - **Evidence.dev** (data apps & analytics)
+- 🌱 Continuously learning and leveling up.
+- 💞️ Still single — never been in love yet 😄
 
-- 😅 I’m a bit lazy sometimes, but I always get the job done. When I work, I work hard.
-- 🌱 I have a bit of experience with **Node.js**, **.NET**, and **React**.
-- 💻 I can build both **websites** and **mobile applications** — I love turning ideas into working software!
-- 💞️ Currently looking for a girlfriend — I've never been in love before, so... maybe it's time? 😄
-
-## 📫 How to Reach Me
-
-- 📧 Email: [giangvanhung2003@gmail.com](mailto:giangvanhung2003@gmail.com)  
-- 📘 Facebook: [https://www.facebook.com/lulu.giang.1/](https://www.facebook.com/lulu.giang.1/)
+## 🌐 Connect With Me
+- 📧 Email: **giangvanhung2003@gmail.com**
+- 🌍 Facebook: [facebook.com/lulu.giang.1](https://www.facebook.com/lulu.giang.1)
+- ▶️ YouTube: [@MohamtReview](https://www.youtube.com/@MohamtReview)
+- 🎞️ TikTok: [@chillonaut_](https://www.tiktok.com/@chillonaut_)
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to connect and collaborate! ✨
+✨ *Thanks for visiting my profile — feel free to reach out or collaborate!* ✨
